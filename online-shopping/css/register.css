@@ -1,0 +1,134 @@
+.w {
+    width: 1200px;
+    margin: auto;
+}
+
+.header {
+    height: 82px;
+    border-bottom: 2px solid #ff4500;
+}
+
+.logo {
+    padding-top: 15px;
+}
+
+.registerarea {
+    height: 520px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.registerarea h3 {
+    height: 40px;
+    background-color: #ececec;
+    border-bottom: 1px solid #ccc;
+    line-height: 40px;
+    padding: 0 10px;
+    font-weight: 400;
+}
+
+.registerarea h3 em {
+    float: right;
+    font-size: 14px;
+}
+
+.registerarea a {
+    color: #ff6d00;
+}
+
+.reg_form {
+    width: 700px;
+    height: 420px;
+    margin: 40px auto 0;
+}
+
+.reg_form label {
+    display: inline-block;
+    width: 150px;
+    height: 35px;
+    line-height: 36px;
+    text-align: right;
+}
+
+.inp {
+    width: 238px;
+    height: 34px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+
+.error {
+    color: #df3033;
+}
+
+.reg_form li {
+    margin-bottom: 15px;
+}
+
+.success {
+    color: #40b83f;
+    margin-left: 10px;
+}
+
+.safe {
+    padding-left: 163px;
+    color: #b2b2b2;
+}
+
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+
+.low {
+    background-color: #de1111;
+}
+
+.medium {
+    background-color: #40b83f;
+}
+
+.high {
+    background-color: #f79100;
+}
+
+.agree {
+    padding-left: 130px;
+    padding-top: 20px;
+}
+
+.agree input {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.agree a {
+    color: #1ba1e6;
+}
+
+.create_account {
+    width: 200px;
+    height: 34px;
+    background-color: #ff6d00;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    margin: 30px 0 0 200px;
+}
+
+
+/* main end */
+
+.footer {
+    height: 120px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.links {
+    height: 30px;
+}
+
+.copyright {
+    line-height: 20px;
+}
